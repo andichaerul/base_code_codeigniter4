@@ -1,0 +1,239 @@
+CRITICAL - 2022-03-14 09:00:35 --> Undefined array key 1
+#0 /Users/andichaerul/www/ayo_co_id/system/Router/Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/Users/andichae...', 429)
+#1 /Users/andichaerul/www/ayo_co_id/system/Router/Router.php(154): CodeIgniter\Router\Router->checkRoutes('login')
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('login')
+#3 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#7 {main}
+CRITICAL - 2022-03-14 09:30:44 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:31:18 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:32:16 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:32:19 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:32:24 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:35:44 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:46:54 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 09:54:04 --> Class "App\Models\UserModel" not found
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+ERROR - 2022-03-14 09:56:29 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-14 09:56:29 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Users/andichaerul/www/ayo_co_id/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#4 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(17): CodeIgniter\BaseModel->find(1)
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#10 {main}
+ERROR - 2022-03-14 09:59:16 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-03-14 09:59:16 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Users/andichaerul/www/ayo_co_id/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#4 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(17): CodeIgniter\BaseModel->find(1)
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#10 {main}
+ERROR - 2022-03-14 09:59:53 --> Error connecting to the database: Unknown database 'ci4'
+CRITICAL - 2022-03-14 09:59:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Users/andichaerul/www/ayo_co_id/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#4 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(17): CodeIgniter\BaseModel->find(1)
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#10 {main}
+ERROR - 2022-03-14 10:00:07 --> Table 'ayo_co_id.users' doesn't exist
+CRITICAL - 2022-03-14 10:00:07 --> Table 'ayo_co_id.users' doesn't exist
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Users/andichaerul/www/ayo_co_id/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#6 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(17): CodeIgniter\BaseModel->find(1)
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#8 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#9 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#12 {main}
+ERROR - 2022-03-14 10:22:28 --> Unknown column 'password' in 'where clause'
+CRITICAL - 2022-03-14 10:22:28 --> Unknown column 'password' in 'where clause'
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Users/andichaerul/www/ayo_co_id/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(22): CodeIgniter\BaseModel->first()
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#8 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#9 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#12 {main}
+CRITICAL - 2022-03-14 10:23:24 --> Call to undefined method App\Models\UserModel::count
+#0 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(23): CodeIgniter\Model->__call('count', Array)
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#3 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#6 {main}
+ERROR - 2022-03-14 10:31:12 --> Unknown column 'cssss' in 'where clause'
+CRITICAL - 2022-03-14 10:31:12 --> Unknown column 'cssss' in 'where clause'
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Users/andichaerul/www/ayo_co_id/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 /Users/andichaerul/www/ayo_co_id/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(22): CodeIgniter\BaseModel->findAll()
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#8 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#9 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#12 {main}
+ERROR - 2022-03-14 10:40:52 --> Unknown column 'password' in 'where clause'
+CRITICAL - 2022-03-14 10:40:52 --> Unknown column 'password' in 'where clause'
+#0 /Users/andichaerul/www/ayo_co_id/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Users/andichaerul/www/ayo_co_id/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Users/andichaerul/www/ayo_co_id/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->auth()
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#7 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#10 {main}
+CRITICAL - 2022-03-14 10:59:26 --> A void function must not return a value
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-14 11:01:46 --> Call to a member function getFlashdata() on null
+#0 /Users/andichaerul/www/ayo_co_id/system/View/View.php(210): include()
+#1 /Users/andichaerul/www/ayo_co_id/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /Users/andichaerul/www/ayo_co_id/system/Common.php(1089): CodeIgniter\View\View->render('v_login', Array, true)
+#3 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(12): view('v_login')
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->index()
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#9 {main}
+CRITICAL - 2022-03-14 11:01:56 --> Call to a member function getFlashdata() on null
+#0 /Users/andichaerul/www/ayo_co_id/system/View/View.php(210): include()
+#1 /Users/andichaerul/www/ayo_co_id/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /Users/andichaerul/www/ayo_co_id/system/Common.php(1089): CodeIgniter\View\View->render('v_login', Array, true)
+#3 /Users/andichaerul/www/ayo_co_id/app/Controllers/AuthController.php(12): view('v_login')
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\AuthController->index()
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#9 {main}
+CRITICAL - 2022-03-14 11:09:25 --> Invalid file: Saas.php
+#0 /Users/andichaerul/www/ayo_co_id/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Saas.php')
+#1 /Users/andichaerul/www/ayo_co_id/system/Common.php(1089): CodeIgniter\View\View->render('Saas', Array, true)
+#2 /Users/andichaerul/www/ayo_co_id/app/Controllers/HomeController.php(11): view('Saas')
+#3 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\HomeController->index()
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#8 {main}
+CRITICAL - 2022-03-14 11:16:15 --> Call to undefined function App\Controllers\checkLoginHelper()
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(809): App\Controllers\HomeController->__construct()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 11:16:27 --> Call to undefined function App\Controllers\checkLogin()
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(809): App\Controllers\HomeController->__construct()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
+CRITICAL - 2022-03-14 11:17:04 --> Invalid file: Saas.php
+#0 /Users/andichaerul/www/ayo_co_id/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Saas.php')
+#1 /Users/andichaerul/www/ayo_co_id/system/Common.php(1089): CodeIgniter\View\View->render('Saas', Array, true)
+#2 /Users/andichaerul/www/ayo_co_id/app/Controllers/HomeController.php(17): view('Saas')
+#3 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\HomeController->index()
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#8 {main}
+CRITICAL - 2022-03-14 11:17:10 --> App\Controllers\HomeController::index(): Return value must be of type string, none returned
+#0 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\HomeController->index()
+#1 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#5 {main}
