@@ -237,3 +237,14 @@ CRITICAL - 2022-03-14 11:17:10 --> App\Controllers\HomeController::index(): Retu
 #3 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
 #4 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
 #5 {main}
+CRITICAL - 2022-03-14 11:44:05 --> Invalid file: default.php
+#0 /Users/andichaerul/www/ayo_co_id/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('default.php')
+#1 /Users/andichaerul/www/ayo_co_id/system/View/View.php(226): CodeIgniter\View\View->render('default', Array, true)
+#2 /Users/andichaerul/www/ayo_co_id/system/Common.php(1089): CodeIgniter\View\View->render('v_home', Array, true)
+#3 /Users/andichaerul/www/ayo_co_id/app/Controllers/HomeController.php(19): view('v_home')
+#4 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(832): App\Controllers\HomeController->index()
+#5 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 /Users/andichaerul/www/ayo_co_id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/andichaerul/www/ayo_co_id/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/andichaerul/www/ayo_co_id/system/Commands/Server/rewrite.php(43): require_once('/Users/andichae...')
+#9 {main}
